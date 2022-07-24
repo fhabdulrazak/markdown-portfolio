@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ ### Capabilities
+ 
+#### List of skills
+ -*Python*
+ -*Javascript*
+ -*Git*
+ 
+ #### List of IDE know how
+ -__VS Code__
+ -__Anaconda__
+ 
