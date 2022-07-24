@@ -1,11 +1,11 @@
  ### Capabilities
  
 #### List of skills
- -*Python*
- -*Javascript*
- -*Git*
+ - *Python*
+ - *Javascript*
+ - *Git*
  
  #### List of IDE know how
- -__VS Code__
- -__Anaconda__
+ - __VS Code__
+ - __Anaconda__
  
